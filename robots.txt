@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://buffalo.lemurianstudios.com/sitemap.xml
